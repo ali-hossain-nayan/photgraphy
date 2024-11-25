@@ -1,7 +1,4 @@
-import React from 'react';
 import pic1 from '../../assets/Founder.jpg';
-import pic2 from '../../assets/Founder2.jpg';
-import pic3 from '../../assets/Founder3.jpg';
 
 const MeetTheFounder = () => {
   return (
